@@ -8,6 +8,6 @@ I have done several projects, in both hardware and programming fields. I am a fr
 
 - 📫 You can reach me: 
   - :envelope: laxminagln@gmail.com
-  - laxminagln@cet.ac.in
+  - :email: laxminagln@cet.ac.in
   - www.linkedin.com/in/laxminagln
   - www.laxminagln.me
