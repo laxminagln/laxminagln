@@ -7,7 +7,7 @@ I have done several projects, in both hardware and programming fields. I am a fr
 - 👯 I’m looking to collaborate on any project 
 
 - 📫 You can reach me: 
-  - laxminagln@gmail.com
+  - :envelope: laxminagln@gmail.com
   - laxminagln@cet.ac.in
   - www.linkedin.com/in/laxminagln
   - www.laxminagln.me
