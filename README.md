@@ -11,3 +11,6 @@ I have done several projects, in both hardware and programming fields. I am a fr
   - :email: laxminagln@cet.ac.in
   - :raising_hand: www.linkedin.com/in/laxminagln
   - :computer: www.laxminagln.me
+  
+- Also, check my blog:
+  - laxminagln.blogspot.com
