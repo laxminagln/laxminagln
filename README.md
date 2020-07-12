@@ -2,7 +2,6 @@
 I am Laxmi Nag L N, currently pursuing Bachelor of Technology in Electrical and Electronics engineering at College of Engineering Trivandrum.
 I have done several projects, in both hardware and programming fields.  
 
-Here are some ideas to get you started:
 
 - 🔭 At present I’m working on projects based on electric vehicle, power electronics, machine learning
 - 👯 I’m looking to collaborate on any project
