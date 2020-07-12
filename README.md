@@ -12,5 +12,5 @@ I have done several projects, in both hardware and programming fields. I am a fr
   - :raising_hand: www.linkedin.com/in/laxminagln
   - :computer: www.laxminagln.me
   
-- :monitor: Also, check my blog:
+- :tv: Also, check my blog:
   - https://laxminagln.blogspot.com
