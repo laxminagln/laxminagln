@@ -13,4 +13,4 @@ I have done several projects, in both hardware and programming fields. I am a fr
   - :computer: www.laxminagln.me
   
 - :tv: Also, check my blog:
-  - https://laxminagln.blogspot.com
+  - :paper: https://laxminagln.blogspot.com
