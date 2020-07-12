@@ -9,5 +9,5 @@ I have done several projects, in both hardware and programming fields. I am a fr
 - 📫 You can reach me: 
   - :envelope: laxminagln@gmail.com
   - :email: laxminagln@cet.ac.in
-  - www.linkedin.com/in/laxminagln
-  - www.laxminagln.me
+  - :raising_hand: www.linkedin.com/in/laxminagln
+  - :computer: www.laxminagln.me
