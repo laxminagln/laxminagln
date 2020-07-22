@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Laxmi Nag L N, currently pursuing Bachelor of Technology in Electrical and Electronics engineering at College of Engineering Trivandrum
+I am Laxmi Nag L N (nagln), currently pursuing Bachelor of Technology in Electrical and Electronics engineering at College of Engineering Trivandrum
 
 I have done several projects, in both hardware and programming fields
 
