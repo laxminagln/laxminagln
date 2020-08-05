@@ -6,10 +6,12 @@ I have done several projects, in both hardware and programming fields
 
 I am a freelance graphic designer, web developer, app developer and an artist
 
-
+### Latest
 - 🔭 At present I’m working on projects based on electric vehicle, power electronics, machine learning
+- :heart: In love with React
 - 👯 I’m looking to collaborate on any project 
 
+### Links
 - 📫 You can reach me: 
   - :envelope: laxminagln@gmail.com
   - :office: laxminagln@cet.ac.in
@@ -19,6 +21,6 @@ I am a freelance graphic designer, web developer, app developer and an artist
 - :tv: Also, check my blog:
   - :book: https://laxminagln.blogspot.com
 
+### My GitHub stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=laxminagln&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
-[![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/CharalambosIoannou)
