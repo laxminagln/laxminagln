@@ -28,4 +28,3 @@ I am a freelance graphic designer, web developer, app developer and an artist
 -----------------------------------------
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=laxminagln&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
-![Spotify](https://open.spotify.com/user/31yiwgp524yjubszoczblyexovmy)
