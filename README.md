@@ -1,5 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=laxminagln)
 ### Hi there 👋
+---------------------------------------------------------------------------------------
 I am Laxmi Nag L N (nagln), currently pursuing Bachelor of Technology in Electrical and Electronics engineering at College of Engineering Trivandrum
 
 I have done several projects, in both hardware and programming fields
@@ -7,11 +8,13 @@ I have done several projects, in both hardware and programming fields
 I am a freelance graphic designer, web developer, app developer and an artist
 
 ### Latest
+---------------------------------------------------------------------------------------
 - 🔭 At present I’m working on projects based on electric vehicle, power electronics, machine learning
 - :heart: In love with React
 - 👯 I’m looking to collaborate on any project 
 
 ### Links
+---------------------------------------------------------------------------------------
 - 📫 You can reach me: 
   - :envelope: laxminagln@gmail.com
   - :office: laxminagln@cet.ac.in
@@ -22,5 +25,6 @@ I am a freelance graphic designer, web developer, app developer and an artist
   - :book: https://laxminagln.blogspot.com
 
 ### My GitHub stats:
+---------------------------------------------------------------------------------------
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=laxminagln&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
