@@ -18,3 +18,4 @@ I am a freelance graphic designer, web developer, app developer and an artist
   
 - :tv: Also, check my blog:
   - :book: https://laxminagln.blogspot.com
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=laxminagln&show_icons=true&theme=tokyonight)
