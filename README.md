@@ -22,7 +22,7 @@ I am a freelance graphic designer, web developer, app developer and an artist
   - :computer: www.laxminagln.me
   
 - :tv: Also, check my blog:
-  - :book: https://laxminagln.blogspot.com
+  - :book: https://laxminagln.blogspot.com 
 
 ### My GitHub stats:
 -----------------------------------------
