@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=laxminagln&color=red&label=NAGLN'S+VIEWS)
+![](https://komarev.com/ghpvc/?username=laxminagln&color=red&label=nagln'+views)
 ### Hi there 👋
 -----------------------------------------
 I am Laxmi Nag L N (nagln), currently pursuing Bachelor of Technology in Electrical and Electronics engineering at College of Engineering Trivandrum
