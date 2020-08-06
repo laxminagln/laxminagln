@@ -28,5 +28,5 @@ I am a freelance graphic designer, web developer, app developer and an artist
 -----------------------------------------
 ![nagln's's github stats](https://github-readme-stats.vercel.app/api?username=laxminagln&count_private=true&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=laxminagln&repo=portable-wireless-multiple-power-transfer)](https://github.com/laxminagln/portable-wireless-multiple-power-transfer)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=laxminagln&repo=vashi.io)](https://github.com/laxminagln/vashi.io)
 
