@@ -27,7 +27,7 @@ I am a freelance graphic designer, web developer, app developer and an artist
 ### My GitHub stats:
 -----------------------------------------
 ![nagln's's github stats](https://github-readme-stats.vercel.app/api?username=laxminagln&count_private=true&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laxminagln&layout=compact&theme=merko)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=laxminagln&repo=vashi.io)](https://github.com/laxminagln/vashi.io)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laxminagln&hide=javascript,html)
+
 
