@@ -20,8 +20,8 @@ I am Laxmi Nag L N (nagln), currently pursuing Bachelor of Technology in Electri
 - :tv: Also, check my blog:
   - :book: https://laxminagln.blogspot.com 
 
-![nagln's's github stats](https://github-readme-stats.vercel.app/api?username=laxminagln&count_private=true&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laxminagln&layout=compact&theme=dark)
+![nagln's's github stats](https://github-readme-stats.vercel.app/api?username=laxminagln&count_private=true&show_icons=true&theme=tokyonight)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=laxminagln&repo=vashi.io)](https://github.com/laxminagln/vashi.io)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=laxminagln&repo=CodeBees)](https://github.com/laxminagln/CodeBees)
 
