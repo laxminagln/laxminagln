@@ -22,7 +22,7 @@ I am Laxmi Nag L N (nagln), currently pursuing Bachelor of Technology in Electri
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laxminagln&layout=compact&theme=dark)
 ![nagln's's github stats](https://github-readme-stats.vercel.app/api?username=laxminagln&count_private=true&show_icons=true&theme=tokyonight)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=laxminagln&repo=COVID19-tracker)](https://github.com/laxminagln/COVID19-tracker)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=laxminagln&repo=COVID19-tracker&theme=dark)](https://github.com/laxminagln/COVID19-tracker)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=laxminagln&repo=CodeBees)](https://github.com/laxminagln/CodeBees)
 
 
