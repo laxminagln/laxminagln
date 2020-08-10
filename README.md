@@ -6,7 +6,6 @@ I am Laxmi Nag L N (nagln), currently pursuing Bachelor of Technology in Electri
 # Latest
 
 - 🔭 At present I’m working on projects based on electric vehicle, power electronics, reactjs
-- :heart: In love with React
 - 👯 I’m looking to collaborate on any project 
 
 # Links
