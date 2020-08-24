@@ -11,7 +11,7 @@ freelance graphic designer, web developer, app developer and an artist
 
 - 🔭 At present I’m working on projects based on electric vehicle, power electronics, reactjs
 - 👯 I’m looking to collaborate on any project 
-- Check this out : ![COVID19-tracker](http://www.laxminagln.me/COVID19-tracker/)
+- Check this out : ![COVID19-tracker](http://www.laxminagln.me/COVID19-tracker)
 
 ## Links
 
