@@ -1,1 +1,1 @@
-![Video](https://github.com/laxminagln/laxminagln/blob/master/ln.GIF)
+![Video](https://github.com/laxminagln/laxminagln/blob/master/ln.GIF =902x362)
