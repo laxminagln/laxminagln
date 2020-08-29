@@ -1,1 +1,1 @@
-        ![Video](ln.GIF)
+![Video](ln.GIF)
