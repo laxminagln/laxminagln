@@ -1,1 +1,1 @@
-![Video](ln.GIF)
+![Alt Text](ln.GIF =250x250)
