@@ -1,5 +1,6 @@
 ![Views](https://komarev.com/ghpvc/?username=laxminagln&color=red&label=nagln's+views)
-[![Alt text for your video](https://img.youtube.com/vi/QsVdmeeSLC0/0.jpg)](http://www.youtube.com/watch?v=QsVdmeeSLC0)
+
+[![Alt text for your video](doc/gifName.gif)](https://www.youtube.com/watch?v=QsVdmeeSLC0)
 
 ## Stats
 
