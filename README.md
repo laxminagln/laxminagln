@@ -1,6 +1,8 @@
 ![Views](https://komarev.com/ghpvc/?username=laxminagln&color=red&label=nagln's+views)
 
-[![Alt text for your video](https://github.com/laxminagln/laxminagln/blob/master/video_29_08_2020_16_49_56.mp4)](https://www.youtube.com/watch?v=QsVdmeeSLC0)
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/watch?v=QsVdmeeSLC0" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
 ## Stats
 
