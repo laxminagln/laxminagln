@@ -1,20 +1,7 @@
-![Views](https://komarev.com/ghpvc/?username=laxminagln&color=red&label=nagln's+views)
-
-  <iframe width="1280" height="544" src="https://www.youtube.com/embed/QsVdmeeSLC0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1280" height="544" src="https://www.youtube.com/embed/QsVdmeeSLC0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
-## Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laxminagln&layout=compact&theme=dark)
-![nagln's's github stats](https://github-readme-stats.vercel.app/api?username=laxminagln&count_private=true&show_icons=true&theme=tokyonight)
-
-## Favorites
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=laxminagln&repo=COVID19-tracker&theme=tokyonight)](https://github.com/laxminagln/COVID19-tracker)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=laxminagln&repo=CodeBees&theme=dark)](https://github.com/laxminagln/CodeBees)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=laxminagln&repo=vashi.io&theme=dark)](https://github.com/laxminagln/vashi.io)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=laxminagln&repo=laxminagln.github.io&theme=tokyonight)](https://github.com/laxminagln/laxminagln.github.io) 
 
 
 
