@@ -1,1 +1,1 @@
-![nagln](ln.GIF)
+![nagln](https://github.com/laxminagln/laxminagln/blob/master/ln.GIF)
