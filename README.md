@@ -1,2 +1,2 @@
 ![nagln](https://github.com/laxminagln/laxminagln/blob/master/ln.GIF)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laxminagln&&width=auto)
+![nagln's's github stats](https://github-readme-stats.vercel.app/api?username=laxminagln&count_private=true&show_icons=true)
