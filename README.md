@@ -1,8 +1,10 @@
 ![Views](https://komarev.com/ghpvc/?username=laxminagln&color=red&label=nagln's+views)
 
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/watch?v=QsVdmeeSLC0" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe width="1280" height="544" src="https://www.youtube.com/embed/QsVdmeeSLC0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
+
+
 
 ## Stats
 
