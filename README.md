@@ -1,1 +1,1 @@
-![Video](/ln.GIF =902x362)
+![Video](ln.GIF =902x362)
