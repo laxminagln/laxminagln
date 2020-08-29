@@ -1,1 +1,1 @@
-![Alt Text](ln.GIF =250x250)
+![nagln](ln.GIF)
