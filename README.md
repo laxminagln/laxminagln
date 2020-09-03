@@ -2,3 +2,4 @@
 ![nagln](https://github.com/laxminagln/laxminagln/blob/master/ln.GIF)
 ![nagln's's github stats](https://github-readme-stats.vercel.app/api?username=laxminagln&count_private=true&show_icons=true&hide_title=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laxminagln&layout=compact)
+[![gmail](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fa%2Fab%2FGmail_Icon.svg%2F100px-Gmail_Icon.svg.png&f=1&nofb=1)](laxminagln@gmail.com)
