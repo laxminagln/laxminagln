@@ -8,7 +8,7 @@
   </a>
 </h2>
 
-<p align="center"><b>Engineer | Developer | Designer</b></p>
+<p align="center"><b>Engineer / Developer / Designer</b></p>
 
 <table>
   <tr>
