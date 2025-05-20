@@ -6,6 +6,9 @@
   <a href="https://medium.com/@laxminagln">
     <img src="https://github.com/user-attachments/assets/fb1122e9-b367-47cc-9189-47ab3f06165b" width="20" height="20"/>
   </a>
+  <a href="https://www.blogger.com/profile/00524078603347678197">
+    <img src="https://github.com/user-attachments/assets/65500154-56e7-4f19-bbf6-22f87458b7c7" width="20" height="20"/>
+  </a>
 </h2>
 
 <p align="center"><b>Engineer / Developer / Designer</b></p>
