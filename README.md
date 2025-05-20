@@ -1,6 +1,16 @@
 ## Laxmi Nag Laxminarayan Nagesh [<img src = "https://github.com/user-attachments/assets/fcc156e0-c984-4f5a-b011-2c0956d5064c" width = "20" height = "20"/>](https://www.linkedin.com/in/laxminagln/) [<img src = "https://github.com/user-attachments/assets/fb1122e9-b367-47cc-9189-47ab3f06165b" width = "20" height = "20"/>](https://medium.com/@laxminagln)
 ### Engineer | Developer | Designer
 
+<style>
+    .container {
+      display: flex;
+    }
+    .column {
+      flex: 1;
+      padding: 10px;
+    }
+    </style>
+
 <div style="display: flex;">
       <div style="flex: 1; padding: 10px;">
         <p>![image](https://github.com/user-attachments/assets/72f9e9e6-ced3-4662-9cb6-c60c4b078599)</p>
