@@ -14,7 +14,6 @@
   <tr>
     <td>
       <img src="https://github.com/user-attachments/assets/72f9e9e6-ced3-4662-9cb6-c60c4b078599"/><br/>
-      <img src="https://github.com/user-attachments/assets/7c821014-acbc-4bbb-87d5-8324b0e781df"/>
     </td>
     <td>
       <sub>
