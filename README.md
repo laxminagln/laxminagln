@@ -1,5 +1,6 @@
 ## Laxmi Nag Laxminarayan Nagesh
-[LinkedIn](https://www.linkedin.com/in/laxminagln/)
+### Engineer | Developer | Designer
+[LinkedIn](https://www.linkedin.com/in/laxminagln/) [Medium](https://medium.com/@laxminagln)
 
 Multidisciplinary engineer with a B.Tech in Electrical and Electronics Engineering from the College of Engineering Trivandrum and over 2 years of experience as a Senior Software Engineer at Wipro. Currently pursuing an MSc in Robotics, with hands-on expertise in designing, assembling, and programming robotic systems.
 
