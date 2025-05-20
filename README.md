@@ -1,4 +1,4 @@
-## Laxmi Nag Laxminarayan Nagesh [<img src = "https://github.com/user-attachments/assets/fcc156e0-c984-4f5a-b011-2c0956d5064c" width = "20" height = "20"/>](https://www.linkedin.com/in/laxminagln/) [<img src = "https://github.com/user-attachments/assets/fb1122e9-b367-47cc-9189-47ab3f06165b" width = "20" height = "20"/>](https://medium.com/@laxminagln)
+##                          Laxmi Nag Laxminarayan Nagesh [<img src = "https://github.com/user-attachments/assets/fcc156e0-c984-4f5a-b011-2c0956d5064c" width = "20" height = "20"/>](https://www.linkedin.com/in/laxminagln/) [<img src = "https://github.com/user-attachments/assets/fb1122e9-b367-47cc-9189-47ab3f06165b" width = "20" height = "20"/>](https://medium.com/@laxminagln)
 ### Engineer | Developer | Designer
 
 <span style = "font-size = 10px;">
