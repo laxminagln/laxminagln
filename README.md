@@ -1,5 +1,7 @@
-## <center> Laxmi Nag Laxminarayan Nagesh [<img src = "https://github.com/user-attachments/assets/fcc156e0-c984-4f5a-b011-2c0956d5064c" width = "20" height = "20"/>](https://www.linkedin.com/in/laxminagln/) [<img src = "https://github.com/user-attachments/assets/fb1122e9-b367-47cc-9189-47ab3f06165b" width = "20" height = "20"/>](https://medium.com/@laxminagln) </center>
+## Laxmi Nag Laxminarayan Nagesh [<img src = "https://github.com/user-attachments/assets/fcc156e0-c984-4f5a-b011-2c0956d5064c" width = "20" height = "20"/>](https://www.linkedin.com/in/laxminagln/) [<img src = "https://github.com/user-attachments/assets/fb1122e9-b367-47cc-9189-47ab3f06165b" width = "20" height = "20"/>](https://medium.com/@laxminagln)
 ### Engineer | Developer | Designer
+
+![image](https://github.com/user-attachments/assets/90aa888a-aa36-45de-9209-c529cafd15fe)
 
 Multidisciplinary engineer with a B.Tech in Electrical and Electronics Engineering from the College of Engineering Trivandrum and over 2 years of experience as a Senior Software Engineer at Wipro. Currently pursuing an MSc in Robotics, with hands-on expertise in designing, assembling, and programming robotic systems.
 
