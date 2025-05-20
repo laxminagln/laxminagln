@@ -10,7 +10,7 @@
 
 <p align="center"><b>Engineer / Developer / Designer</b></p>
 
-<table>
+<table style="border-collapse: collapse;">
   <tr>
     <td>
       <img src="https://github.com/user-attachments/assets/72f9e9e6-ced3-4662-9cb6-c60c4b078599"/><br/>
