@@ -1,5 +1,5 @@
 ## Laxmi Nag Laxminarayan Nagesh [<img src = "https://github.com/user-attachments/assets/fcc156e0-c984-4f5a-b011-2c0956d5064c" width = "20" height = "20"/>](https://www.linkedin.com/in/laxminagln/) [<img src = "https://github.com/user-attachments/assets/fb1122e9-b367-47cc-9189-47ab3f06165b" width = "20" height = "20"/>](https://medium.com/@laxminagln)
-<center><b>Engineer | Developer | Designer</b></center>
+<center><b align="center">Engineer | Developer | Designer</b></center>
 
 <span style = "font-size = 10px;">
 <table border="0">
