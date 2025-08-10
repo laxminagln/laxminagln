@@ -11,7 +11,7 @@
   </a>
 </h2>
 
-<p align="center"><b>Engineer / Developer / Designer</b></p>
+<p align="center"><b>Roboticist / Engineer / Developer / Designer</b></p>
 
 <table style="border-collapse: collapse;">
   <tr>
