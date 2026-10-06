@@ -20,7 +20,6 @@
     </td>
     <td>
       <sub>
-
       </sub>
     </td>
   </tr>
